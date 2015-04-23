@@ -12,7 +12,7 @@ haciendo un respaldo del archivos hosts original.
 
 Para instalar el archivo solo necesita hacer el siguiente procedimiento:
 
-git clone https://github.com/josemald/BlockHosts.git
+git clone https://github.com/YukiteruAmano/BlockHosts.git
 
 cd BlockHosts
 
