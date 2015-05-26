@@ -9,12 +9,13 @@ dominios maliciosos y de publicidad de Internet. El script lleva
 consigo un sencillo instalador que a su vez automatiza todo el proceso
 inicial de configuración y realiza la creación inicial del hosts, 
 haciendo un respaldo del archivos hosts original.
+-------------
 
 Para instalar el archivo solo necesita hacer el siguiente procedimiento:
 
 git clone https://github.com/venito/BlockHosts.git
 
-cd BlockHostse
+cd BlockHosts
 
 sudo ./INSTALL
 
